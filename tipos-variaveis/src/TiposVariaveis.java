@@ -1,5 +1,10 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        
+        final double PI = 3.14;
+        String meuNome = "Pedro Paulo";
+        System.out.println(PI);
+        System.out.println(meuNome);
+
     }
 }
